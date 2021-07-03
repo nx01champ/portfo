@@ -39,4 +39,4 @@ def submit_form():
         except:
             return 'did not save to database'
     else:
-        return 'yall ****** up!'
+        return 'yall messed up yall!'
